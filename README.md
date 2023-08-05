@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/gVCgzpv0B7AAAAAM/cat-cute.gif">
 
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/skizzle010/Portfolio)
+- 🔭 I’m currently working with my Typescript and Nextjs
 
 - 🌱 I’m currently learning **GOLang,gin and GOFiber**
 
-- 👨‍💻 Most of my projects are available at [utkarshrai.vercel.app](utkarshrai.vercel.app)
+- 👨‍💻 Most of my projects are available at [Github](https://github.com/skizzle010)
 
 - 💬 Ask me about **whatever you want**
 
