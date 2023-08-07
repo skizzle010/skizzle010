@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/009/665/328/small/group-of-cute-cat-greeting-cartoon-png.png)
 
-<h1 align="center">Hi 👋, I'm Utkarsh Rai</h1>
+<h1 align="center">Heyyy 👋, I'm Utkarsh Rai</h1>
 <h3 align="center">A passionate web developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/gVCgzpv0B7AAAAAM/cat-cute.gif">
