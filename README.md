@@ -1,5 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/009/665/328/small/group-of-cute-cat-greeting-cartoon-png.png)
 
+
 <h1 align="center">Heyyy 👋, I'm Utkarsh Rai</h1>
 <h3 align="center">A passionate web developer</h3>
 
@@ -16,8 +17,8 @@
 
 - 📫 How to reach me **raiutkarsh3219@gmail.com**
 
-
 - ⚡ Fun fact **I absolutely love cats**
+-   ![](https://komarev.com/ghpvc/?username=your-github-username&label=Visitor+Count&color=grey)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skizzle010&show_icons=true&locale=en" alt="skizzle010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skizzle010&" alt="skizzle010" /></p>
+
