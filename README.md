@@ -21,7 +21,7 @@ const Utkarsh = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO"]
     },
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Trying to beat the final boss in React",
     funFact: "I love Cats :3"
 };
 ```
