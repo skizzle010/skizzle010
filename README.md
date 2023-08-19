@@ -9,11 +9,11 @@
 ```
 const Utkarsh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "TypeScript"],
+    code: ["Javascript", "Python", "Java", "TypeScript","Go"],
     askMeAbout: ["web dev", "tech", "football"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "GoFiber", "Express"],
         },
         Frontend: {
             js:["React","Next"]
