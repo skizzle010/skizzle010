@@ -18,7 +18,7 @@
 - 📫 How to reach me **raiutkarsh3219@gmail.com**
 
 - ⚡ Fun fact **I absolutely love cats**
--   ![](https://komarev.com/ghpvc/?username=your-github-username&label=Visitor+Count&color=grey)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
