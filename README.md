@@ -26,7 +26,7 @@ const Utkarsh = {
 };
 ```
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/gVCgzpv0B7AAAAAM/cat-cute.gif">
+<img align="right" alt="coding" width="400" height="250" src="https://s1.r29static.com/bin/entry/bbc/x/1600082/image.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +41,7 @@ const Utkarsh = {
 
 
 
-<div style="padding-top: 20px;">
+<div style="padding-top: 40px;">
   <table>
     <tr>
       <td align="center">
